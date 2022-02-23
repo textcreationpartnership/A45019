@@ -1,0 +1,224 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the Commons of Kent agreed upon at their generall assizes : presented to His Majestie, August the first, 1642 : with certain instructions from the county of Kent to Mr. Augustine Skinner : whereby the desires of the said county may be presented by him to the Honourable House of Commons : with His Majesties answer to the aforesaid petition : at the Court of York, August 4 1642.</title>
+            <author>Kent (England)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45019</idno>
+            <idno type="STC">Wing H3495A</idno>
+            <idno type="STC">ESTC R28930</idno>
+            <idno type="EEBO-CITATION">10784538</idno>
+            <idno type="OCLC">ocm 10784538</idno>
+            <idno type="VID">45843</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A45019)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 45843)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1387:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the Commons of Kent agreed upon at their generall assizes : presented to His Majestie, August the first, 1642 : with certain instructions from the county of Kent to Mr. Augustine Skinner : whereby the desires of the said county may be presented by him to the Honourable House of Commons : with His Majesties answer to the aforesaid petition : at the Court of York, August 4 1642.</title>
+                  <author>Kent (England)</author>
+               </titleStmt>
+               <extent>9 p.   </extent>
+               <publicationStmt>
+                  <publisher>By Roger Daniel, printer to the famous universitie,</publisher>
+                  <pubPlace>Cambridge :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Printed by His Majesties speciall command."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kent (England)</term>
+               <term>Kent (England) --  History --  Sources.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:45843:1"/>
+            <!-- PDF PAGE 43 -->
+            <pb facs="tcp:45843:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 43 -->
+            <p>The humble Petition of the <hi>COMMONS</hi> of KENT, Agreed upon at their Generall <hi>Aſsizes.</hi>
+            </p>
+            <p>Preſented to His MAJESTIE <hi>Auguſt</hi> the firſt, 1642.</p>
+            <p>With certain Inſtructions from the County of <hi>Kent,</hi> to M<hi rend="sup">r</hi> 
+               <hi>Auguſtine Skinner,</hi> whereby the Deſires of the ſaid County may be preſented by him, to the Honourable Houſe of <hi>COMMONS.</hi>
+            </p>
+            <p>With His MAJESTIES Anſwer to the aforeſaid Petition.</p>
+            <p>At the Court at YORK, <hi>Auguſt</hi> 4. 1642.</p>
+            <p>Printed by his Majeſties ſpeciall command, At <hi>CAMBRIDGE,</hi> By ROGER DANIEL, Printer to the famous Univerſitie. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:45843:2"/>
+            <!-- PDF PAGE 44 -->
+            <p>
+               <figure>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="petition">
+            <pb n="1" facs="tcp:45843:2"/>
+            <!-- PDF PAGE 44 -->
+            <head>
+               <hi>¶ To the Kings moſt Excellent MAjESTIE:</hi> The Humble Petition of the Commons of KENT, agreed upon at their Generall Aſsizes.</head>
+            <opener>
+               <salute>Moſt gracious Sovereigne;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E do, with all thankfulneſſe, acknow<g ref="char:EOLhyphen"/>ledge Your great Grace and favour to<g ref="char:EOLhyphen"/>wards us, and the whole Kingdome; In paſſing many good Laws for the benefit of Your Subjects; In promiſing to eaſe us of all our grievances; And graciouſly inviting Us by Your Letter directed to the Judge of Our Aſſize, full of Love and Care for Your Peoples good, to petition for redreſſe of them, promiſing a gracious Anſwer: And we ſhould with all humility have preſented them to Your Majeſtie at this time, did not the preſent great diſtractions and apprehenſion of a Civill War (which we earneſtly pray to God to divert) put us beyond all thought of other grievances. For prevention whereof, we have with all Loyalty of Heart to Your Sacred Majeſtie, with all Love and Faithfulneſſe to our Countrey, preſented our humble advice in certain Inſtructions, to one of our Knights of the Shire now here preſent with a Committee from the Houſe of Commons, to be preſented by him to that Honourable Houſe: The Copy whereof we make bold to annex unto this Petition.</p>
+            <p>
+               <pb n="2" facs="tcp:45843:3"/>
+               <!-- PDF PAGE 45 -->
+Moſt humbly deſiring Your Excellent Majeſtie, That if it ſhall pleaſe the Houſes of <hi>Parliament</hi> to ſatisfie Your Majeſties juſt deſires in theſe particulars, That then Your Majeſtie would be graciouſly pleaſed, to lay down Your extraordinary Guards, and cheerfully meet Your <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> in ſuch a place where Your Sacred Majeſtie and each Member of both Houſes, may be free from tumultu<g ref="char:EOLhyphen"/>ary Aſſemblies;</p>
+            <closer>And as in all Duty bound, we ſhall daily Pray for Your Majeſties long Life, and proſperous Reigne over us.</closer>
+         </div>
+         <div type="document">
+            <pb n="3" facs="tcp:45843:3"/>
+            <!-- PDF PAGE 45 -->
+            <head>Inſtructions from the County of <hi>Kent,</hi> to Maſter <hi>Auguſtine Skinner,</hi> whereby the deſires of the ſaid County may be preſented by him to the Honourable Houſe of COMMONS.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas a Committee from the Houſe of Commons is now ſent down to the Aſsizes, upon a credible Information (as they ſay) that ſomething ſhould be done to the Diſturbance of the Peace of this County.</p>
+            <p>We, the Commons of Kent, require you Maſter <hi>Auguſtine Skinner</hi> (as our Servant) to certifie to that Honourable Houſe, That you found the County in full Peace, and that there is no ground for any ſuch Information, and that you deſire, in our Names, to know the particulars of that Information, (of which it ſeems you are ignorant, and the Informer) that this County may have full reparations in Honour againſt ſo ſcandalous an aſperſion caſt upon them; and that the Informer, of what quality ſoever, may receive condigne puniſhment. And that the Houſe of Commons may underſtand our deſires, not onely to preſerve the Peace of this County, which (with Gods bleſsing, and the help of the good known Laws of this Kingdome) we are confident we ſhall maintain, but alſo of the whole Kingdome, being now in ſo great a diſtraction, that every Man ſtands at a gaze, to ſee what the event is likely to be, and well weighing what a great fire a
+<pb n="4" facs="tcp:45843:4"/>
+               <!-- PDF PAGE 46 -->ſmall ſpark may kindle; abhorring and detesting the thought of a Civill Warre: We farther require you to offer our humble advice, as Faithfull and Loyall Subjects to His Majeſty, and good Patri<g ref="char:EOLhyphen"/>ots and Lovers of our Countrey, for ſettling the Diſtractions of theſe times. One principall means to effect it, we conceive will be to give His Majeſty full ſatisfaction in His Juſt Deſires, in theſe foure Particulars.</p>
+            <list>
+               <item>1. <hi>In preſently leaving the Town of</hi> Hull <hi>in the ſame State it was before Sir</hi> John Hothams <hi>entrance into it; And delivering His Majeſty His own Magazine.</hi>
+               </item>
+               <item>2. <hi>In laying aſide the</hi> Militia, <hi>untill a good Law may be framed, wherein care may be taken as well for the Liberty of the Subjects, as the Defence of the Kingdome.</hi>
+               </item>
+               <item>3. <hi>That the Parliament be adjourned to an indifferent place, where His Sacred Majeſty, all the Lords and Mem<g ref="char:EOLhyphen"/>bers of Your Houſe of Commons may meet and treat with Honour, Freedome, and Safety.</hi>
+               </item>
+               <item>4. <hi>That His Majeſties Navie may be immediately re<g ref="char:EOLhyphen"/>ſtored to him.</hi>
+               </item>
+            </list>
+            <p>Our Reaſons are theſe.
+<list>
+                  <item>
+                     <hi>1</hi> For withdrawing your Garriſon out of the Town of <hi>Hull,</hi> we are perſwaded your fears and Jealouſies of forrein forces, of French, or Danes, or of the Papiſts at home (an inconſiderable Party, eſpecially being diſarmed) are long ſince vaniſhed, the Magazine or a great part of it being removed to London, we con<g ref="char:EOLhyphen"/>ceive Maſter Major of <hi>Hull</hi> may ſafely keep the Town as before.</item>
+                  <item>
+                     <hi>2.</hi> For laying aſide the <hi>Militia,</hi> we are free from Jealouſies of Forrein Forces, ſo that you may have time enough to frame a laſting Law, which notwithſtanding, for fear of Inconveni<g ref="char:EOLhyphen"/>ence to the Subjects Liberty, you may, if you ſo think fit, make the Law a Probationer. Beſides, His Majeſty, if occaſion ſhould be,
+<pb n="5" facs="tcp:45843:4"/>
+                     <!-- PDF PAGE 46 -->is veſted with ſufficient power to raiſe forces for the Defence of the Kingdome, for which onely we are confident His Majeſty will employ them. And we ſhould hold our ſelves worſe then In<g ref="char:EOLhyphen"/>fidels, if, after ſo many Proteſtations to maintain the True Reli<g ref="char:EOLhyphen"/>gion by Law establiſhed, the Subjects in the Liberty of their Per<g ref="char:EOLhyphen"/>ſons and Propriety of their Goods, and the Priviledges of Parli<g ref="char:EOLhyphen"/>ament, and that He will Govern us by the known Laws of the Land, we ſhould not with full aſſurance, believe in Him and con<g ref="char:EOLhyphen"/>fide in Him.</item>
+                  <item>
+                     <hi>3.</hi> For adjourning the Parliament to another place, His Majeſty hath expreſſed the Reaſons, That He was driven away by tumultuary Aſſemblies, and that he cannot return thither with Honour and Safety: And divers of the Lords are abſent, who promiſe to return back to the Houſe, when they may ſit with the Liberty, and that condition that the Peerage of <hi>England</hi> former<g ref="char:EOLhyphen"/>ly have done, ſecured from all menaces, or demanding any Ac<g ref="char:EOLhyphen"/>count of their particular Votes; which we conceive to be againſt the Freedome of Parliament, which by our Proteſtation we muſt maintain, and from tumultuarie Aſſemblies: Theſe having been the Occaſions, as we believe, that of near five hundred in the Houſe of Commons, there are but about one hundred and forty left to ſit there, and the greater part of the Lords gone away.</item>
+                  <item>
+                     <hi>4.</hi> For the Reſtitution of the Navie, our Reaſon is, That the Neighbour Nations do take notice, that His Majeſties Navie is detained from him, which if not ſuddenly reſtored, may turn to His Majeſties diſhonour, whoſe honour, by our Proteſtation, we are bound to maintain.</item>
+               </list>
+            </p>
+            <p>Another means, we conceive, to ſettle the States and Minds of the Subjects, is a free, generall, and large pardon: which ſince His Majeſty hath ſo graciouſly offered we deſire and expect to re<g ref="char:EOLhyphen"/>ceive, and if any Man do diſlike it, he may be excepted, and the generality of the Subjects not hindred of their good, and His Ma<g ref="char:EOLhyphen"/>jeſties Grace and Goodneſſe.</p>
+         </div>
+         <div type="reply_to_petition">
+            <pb n="6" facs="tcp:45843:5"/>
+            <!-- PDF PAGE 47 -->
+            <head>¶ His MAjESTIES Anſwer to the humble Petition of the Commons of <hi>Kent,</hi> agreed upon at their generall Aſsizes, and preſented to His Majeſtie, <hi>Auguſt</hi> 1.</head>
+            <opener>
+               <dateline>At the Court at <hi>York,</hi> 
+                  <date>Auguſt 4. 1642.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Is Majeſtie hath with great ſatisfaction in the Loyaltie and Affection of the Petiti<g ref="char:EOLhyphen"/>oners conſidered this Petition, with the Inſtructions annexed to their Knight of the Shire, &amp; hath expreſſely command<g ref="char:EOLhyphen"/>ed me to return this His Anſwer in theſe words:</p>
+            <p>That the Petitioners are not more eaſed and ſatisfied with the good Laws His Majeſtie hath paſſed, then His Majeſtie Himſelf is pleaſed with that way of obliging His Subjects, neither hath He ever made the leaſt Promiſe or profeſſion of repairing or redreſſing the grievances of His People, which He hath not been, and alwayes will be ready to per<g ref="char:EOLhyphen"/>form.</p>
+            <p>His Majeſtie cannot blame the Petitioners to be appre<g ref="char:EOLhyphen"/>henſive of a civill Warre, ſince the preſent diſtractions (grounded upon no viſible cauſe, to which His Majeſtie
+<pb n="7" facs="tcp:45843:5"/>
+               <!-- PDF PAGE 47 -->could, or can yet apply a remedy) threaten no leſſe confuſi<g ref="char:EOLhyphen"/>on. But his Majeſtie doubts not, that the Petitioners and all His good Subjects, do well underſtand, That His Maje<g ref="char:EOLhyphen"/>ſtie hath left no way unattempted, which in Honour or Wiſ<g ref="char:EOLhyphen"/>dome could be conſented to, to prevent that confuſion.</p>
+            <p>That after ſo many Injuries and Indignities offered to Him, ſo many combinations and conſpiracies againſt Him, He departed ſo much from His own Majeſtie, and the Ju<g ref="char:EOLhyphen"/>ſtice due to it, That he required no other reparation, then to have His Town, Goods, and Navie (taken and kept by violence from and againſt Him) to be reſtored to Him: The power of making Laws without Him, by the way of Ordinances (and that in particular, concerning the <hi>Militia</hi>) to be diſavowed. And that a ſafe Place might be agreed on, where He might be preſent with His great Councell, for the compoſing of all miſunderſtandings, and making the Kingdome happy.</p>
+            <p>That before any Anſwer returned to His Majeſtie (whil'ſt with all patience and hope His Majeſtie forbore any action or attempt of force, according to His promiſe) Sir <hi>John Hotham</hi> iſſued out of <hi>Hull</hi> in the Night, burned the Houſes, and murthered the Perſons of his fellow-ſubjects (though he knew His Majeſtie quietly expected an Anſwer to His reaſonable and neceſſary demands) and hath ſince exerciſed moſt barbarous cruelty upon a Drummer then taken priſoner by him.</p>
+            <p>That thoſe Propoſitions made by His Majeſtie, and men<g ref="char:EOLhyphen"/>tioned by the Petitioners in their Inſtructions, are diſſented from, and His Majeſtie not ſuffered to enjoy what is as un<g ref="char:EOLhyphen"/>queſtionably His own, as any thing His Subjects can call moſt theirs, upon pretence there is ſome truſt on foot to diſpoſſeſſe His Majeſtie of them: Whether any ſuch truſt be derived from the Petitioners, themſelves beſt know.</p>
+            <p>That a Generall is made to command His Subjects a<g ref="char:EOLhyphen"/>gainſt
+<pb n="8" facs="tcp:45843:6"/>
+               <!-- PDF PAGE 48 -->Him, and Forces already marching with Cannon to<g ref="char:EOLhyphen"/>wards Him, under the conduct of the Lord <hi>Brook,</hi> whilſt all Labour and Endeavour is uſed, to cut off all Succour and Supply from His Majeſtie, as from a Forein Enemy.</p>
+            <p>When the Petitioners and all other His Majeſties Sub<g ref="char:EOLhyphen"/>jects have weighed this, and conſidered that theſe ſtrange unheard of proceedings muſt be the effects of deſperate Reſolutions, and that all this calamity is brought upon this Nation, to wreſt from his Majeſtie His juſt Rights, when no ſober man can ſee the want of any thing which is in His Majeſties power to grant, and neceſſary for the peace and full happineſſe of the Kingdome.</p>
+            <p>That when all encouragement is given, ſcandals raiſed, and provocations uſed to incenſe the People againſt His Majeſtie, and to publiſh Petitions and Declarations againſt the known Laws and eſtabliſhed Government: The Peti<g ref="char:EOLhyphen"/>tioners, and all other His Majeſties good Subjects (who out of a true ſenſe of the diſtraction and ruine the Com<g ref="char:EOLhyphen"/>monwealth muſt ſpeedily fall into through theſe diſtempers have prepared ſober and moderate Petitions and Animad<g ref="char:EOLhyphen"/>verſions for the peace of the Kingdome) have been diſcoun<g ref="char:EOLhyphen"/>tenanced, cenſured, and impriſoned in a Lawleſſe Arbitrary way, when no offence hath been committed by them, of which the Law hath taken notice: That all their Rights, Intereſts, and Priviledges, which they were born to, by the good known Laws, are taken from them, or ſubjected to an unintelligible Arbitrary power and reſolution, which de<g ref="char:EOLhyphen"/>ſtroyes their confidence and aſſurance even in Innocency it ſelf; They will think it time to provide for their own ſe<g ref="char:EOLhyphen"/>curity, by Aſſiſting His Majeſtie for the Defence of His Perſon, preſervation of the true Proteſtant Religion, and maintenance of the Law of the Land, and Liberty of the Subject; of the which, as the Petitioners care is very eminent, and deſerves all protection, thanks, and eſtimati<g ref="char:EOLhyphen"/>on
+<pb n="9" facs="tcp:45843:6"/>
+               <!-- PDF PAGE 48 -->from His Majeſtie; So His Majeſtie will venture His Life and His Crown with them in that Quarrell.</p>
+            <p>Laſtly, leſt any of the Petitioners may unjuſty ſuffer for making or preſenting this humble, dutifull, and modeſt Petition to His Majeſtie; His Majeſtie declares, That He will with His utmoſt power and aſſiſtance protect and de<g ref="char:EOLhyphen"/>fend them againſt any power whatſoever, which ſhall que<g ref="char:EOLhyphen"/>ſtion them for ſo doing; And to that purpoſe advertiſeth them, That they are not obliged to yield Obedience to any Purſuivants, Sergeants, or Meſſengers, who ſhall endeavour to moleſt them for doing their Duty, and diſcharging their Conſciences therein. And that the whole County of <hi>Kent</hi> may know His Majeſties gracious acceptance of this ex<g ref="char:EOLhyphen"/>preſſion of their Duty and affection unto Him: 'Tis His Majeſties pleaſure, that this Anſwer, together with the Pe<g ref="char:EOLhyphen"/>tition and Inſtructions, be read in all the Churches and Chappels of that County.</p>
+            <closer>
+               <signed>Falkland.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
